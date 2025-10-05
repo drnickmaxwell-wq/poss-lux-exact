@@ -1,0 +1,1 @@
+// FooterBadges placeholder
