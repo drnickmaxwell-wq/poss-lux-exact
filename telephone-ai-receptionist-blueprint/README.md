@@ -1,1 +1,0 @@
-Telephone AI Receptionist Blueprint
